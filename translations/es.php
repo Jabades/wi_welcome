@@ -1,0 +1,34 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{wi_welcome}prestashop>wi_welcome_61d5858dbff23982cf39bdb60248f138'] = 'Webimpacto Mensaje de bienvenida';
+$_MODULE['<{wi_welcome}prestashop>wi_welcome_75fe0f16b7b5e3b094fb15c1422a36b6'] = 'Muestra un mensaje de bienvenida a sus clientes.';
+$_MODULE['<{wi_welcome}prestashop>wi_welcome_8cf04a9734132302f96da8e113e80ce5'] = 'Home';
+$_MODULE['<{wi_welcome}prestashop>wi_welcome_ded40f2a77c30efc6062db0cbd857746'] = 'Footer';
+$_MODULE['<{wi_welcome}prestashop>wi_welcome_92d729b70b6d87e8fbf5c58de15af0a8'] = 'Footer Before';
+$_MODULE['<{wi_welcome}prestashop>wi_welcome_77fec4c9105fa6cbbf9a0d245edef511'] = 'Editar / Crear mensaje';
+$_MODULE['<{wi_welcome}prestashop>wi_welcome_0f9cb946d1ca8a4a2d8f700e2276bb4c'] = 'Lista de mensajes';
+$_MODULE['<{wi_welcome}prestashop>wi_welcome_6a26f548831e6a8c26bfbbd9f6ec61e0'] = 'Ayuda';
+$_MODULE['<{wi_welcome}prestashop>wi_welcome_f4f70727dc34561dfde1a3c529b6205c'] = 'Ajustes';
+$_MODULE['<{wi_welcome}prestashop>wi_welcome_619979aed12711ce96172285082f7b27'] = 'Cree un mensaje de bienvenida para sus clientes.';
+$_MODULE['<{wi_welcome}prestashop>wi_welcome_6a4cd1c8449065dcec2eaa5d522aa9e9'] = 'Descripción';
+$_MODULE['<{wi_welcome}prestashop>wi_welcome_4c2a8fe7eaf24721cc7a9f0175115bd4'] = 'Mensaje';
+$_MODULE['<{wi_welcome}prestashop>wi_welcome_0be02f947172e4cec881cbefa4df0163'] = 'Marque loss Hooks en los que desea habilitar este mensaje.';
+$_MODULE['<{wi_welcome}prestashop>wi_welcome_8ab45c4727fdbc578ef1b54ba63291b2'] = 'Habilitar en Hooks';
+$_MODULE['<{wi_welcome}prestashop>wi_welcome_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
+$_MODULE['<{wi_welcome}prestashop>wi_welcome_0bba8ccd22a2c3332373cd8abed7c6c8'] = 'Por favor inserte un nombre descriptivo.';
+$_MODULE['<{wi_welcome}prestashop>wi_welcome_ecd0c87f0f91b97ebef3bec27f17425d'] = 'Por favor complete el mensaje en idioma:';
+$_MODULE['<{wi_welcome}prestashop>help_6650320b14e533febc27acc41e232a67'] = 'Guía de ayuda';
+$_MODULE['<{wi_welcome}prestashop>help_b830f305245b0a3ce1546aff716443d4'] = 'Para crear un nuevo bloque de mensajes, use la pestaña [1] [Editar / Crear mensaje] [/1]. Establezca un nombre descriptivo para su bloque, solo con fines de identificación, y complete el mensaje para sus clientes y los hooks deseados.';
+$_MODULE['<{wi_welcome}prestashop>help_43ca31c4bc36d494b80b401345853b85'] = 'Puede seleccionar en qué hooks desea colocar el nuevo bloque de mensaje, el mensaje aparecerá en todos los hooks seleccionados simultáneamente.';
+$_MODULE['<{wi_welcome}prestashop>help_907360c11cc724ade6d8917036dc2f59'] = 'Una vez que se ha creado su mensaje, puede ir a la pestaña [1] [Lista de mensajes] [/1] para revisar todos sus mensajes creados anteriormente.';
+$_MODULE['<{wi_welcome}prestashop>list_ef61fb324d729c341ea8ab9901e23566'] = 'Agregar nuevo';
+$_MODULE['<{wi_welcome}prestashop>list_7f090bbab1cc7f9c08bf4e54d932d3c0'] = 'Modificar';
+$_MODULE['<{wi_welcome}prestashop>list_f2a6c498fb90ee345d997f888fce3b18'] = 'Borrar';
+$_MODULE['<{wi_welcome}prestashop>list_e507b6a9e765e6054b2c2e072e0d52e1'] = 'Aún no se ha creado un bloque de texto.';
+$_MODULE['<{wi_welcome}prestashop>list_fb4ea0d240b1a95c5fbd79892e704604'] = 'Eliminar bloque de texto';
+$_MODULE['<{wi_welcome}prestashop>list_627b3014dd59de57d87dbc4f5258cb31'] = 'El bloque se borrará de forma permanente. Seguro ?';
+$_MODULE['<{wi_welcome}prestashop>list_ea4788705e6873b424c65e91c2846b19'] = 'Cancelar';
+$_MODULE['<{wi_welcome}prestashop>form_80728321aadf6c6abd351de2c7d9f7ea'] = 'Esta creando un nuevo bloque de texto.';
+$_MODULE['<{wi_welcome}prestashop>form_b1caf7f21c1b8899e11165a6aed71af9'] = 'Editando';
